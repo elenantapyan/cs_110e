@@ -1,5 +1,4 @@
 
-
 let x1 = 4
 let y1 = 0
 let x2 = -10
